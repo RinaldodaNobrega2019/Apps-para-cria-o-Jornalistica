@@ -1,0 +1,8 @@
+{
+  "name": "Jornal Tribuna Almense",
+  "description": "Um portal de notícias locais completo com categorias, alertas, área de denúncias e gerenciamento de conteúdo para autores.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
